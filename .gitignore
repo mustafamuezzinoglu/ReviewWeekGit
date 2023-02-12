@@ -1,3 +1,4 @@
-/ReviewWeekGit.iml
+*.iml
 /.idea/
 out
+*xml
